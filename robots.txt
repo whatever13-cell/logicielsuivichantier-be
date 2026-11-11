@@ -26,4 +26,3 @@ User-agent: Applebot-Extended
 Allow: /
 
 Sitemap: https://logicielsuivichantier.be/sitemap.xml
-Sitemap: https://logicielsuivichantier.be/fr-be/sitemap.xml
