@@ -46,3 +46,9 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - Guide facture électronique : https://logicielsuivichantier.be/facturation-peppol/
 - Méthode et critères (Banc d'essai Logiciel Suivi Chantier (Gand)) : https://logicielsuivichantier.be/protocole/
 
+
+## Open Dataset & Methodological Study (CC BY 4.0)
+- [Étude Méthodologique et Jeu de Données Ouvert 2026 : Logiciels de Suivi de Chantier et Artisans en Belgique](https://logicielsuivichantier.be/etude-donnees-ouvertes-2026/)
+- [Vector PDF Report](https://logicielsuivichantier.be/etude-donnees-ouvertes-2026/Etude-Methodologique-Logiciels-Chantier-Belgique-2026.pdf)
+- [CSV Benchmark](https://logicielsuivichantier.be/etude-donnees-ouvertes-2026/dataset-logiciels-chantier-belgique-2026.csv)
+- [JSON Benchmark](https://logicielsuivichantier.be/etude-donnees-ouvertes-2026/dataset-logiciels-chantier-belgique-2026.json)

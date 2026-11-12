@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this benchmark dataset, please cite it as below."
+title: "Étude Méthodologique et Jeu de Données Ouvert 2026 : Logiciels de Suivi de Chantier et Artisans en Belgique"
+version: "2026.11"
+date-released: 2026-11-12
+license: "CC-BY-4.0"
+url: "https://logicielsuivichantier.be/etude-donnees-ouvertes-2026/"
+authors:
+  - family-names: "Peeters"
+    given-names: "Thomas"
+    affiliation: "Observatoire Belge des Logiciels Bâtiment & Chantier"
+keywords:
+  - field-service-management
+  - construction-software
+  - trades-software
+  - e-invoicing
+  - benchmark-2026

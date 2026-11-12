@@ -1,0 +1,252 @@
+{
+  "schemaVersion": "2026.11",
+  "country": "BE",
+  "language": "fr-BE",
+  "currency": "EUR",
+  "title": "Étude Méthodologique et Jeu de Données Ouvert 2026 : Logiciels de Suivi de Chantier et Artisans en Belgique",
+  "publisher": "Observatoire Belge des Logiciels Bâtiment & Chantier",
+  "author": {
+    "name": "Thomas Peeters",
+    "role": "Conseiller Logiciels BTP & Chantier (Bruxelles)"
+  },
+  "canonicalUrl": "https://logicielsuivichantier.be/etude-donnees-ouvertes-2026/",
+  "publishedAt": "2026-11-12",
+  "license": "CC-BY-4.0",
+  "methodology": {
+    "pureVerticalScope": true,
+    "generalistAccountingExcluded": true,
+    "totalFunctionsTested": 36,
+    "pricingRule": "Complete 1-user plan with all field & office modules enabled, plus verified additional technician cost"
+  },
+  "regulatoryReference": {
+    "title": "Cadre Légal Belge 2026 : Facturation Électronique B2B Peppol Obligatoire, Checkinatwork & Attestation TVA 6 %",
+    "authority": "SPF Finances · efactuur.belgium.be & ONSS (Checkinatwork)",
+    "officialUrl": "https://efactuur.belgium.be"
+  },
+  "results": [
+    {
+      "rank": 1,
+      "id": "avantium",
+      "name": "Avantium",
+      "evaluatedPlan": "Pro – tout compris",
+      "overallScore": 9,
+      "subScores": {
+        "movil": 9.1,
+        "facil": 9,
+        "precio": 9.2,
+        "pc": 8.9,
+        "tiendas": 8.9
+      },
+      "mobileFeatures": 33,
+      "desktopFeatures": 33,
+      "totalFeatures": 36,
+      "pricing": {
+        "currency": "EUR",
+        "monthly1User": 49,
+        "annual1UserMonthlyEq": 42,
+        "extraUserMonthly": 15,
+        "team3Monthly": 79,
+        "team5Monthly": 109,
+        "team10Monthly": 184,
+        "tco12MonthsTeam5": 1308
+      },
+      "ratings": {
+        "appStoreIos": 4.9,
+        "googlePlayAndroid": 4.9
+      },
+      "onboardingTime": "1 à 2 jours"
+    },
+    {
+      "rank": 2,
+      "id": "trustup",
+      "name": "Trustup Pro",
+      "evaluatedPlan": "Expert",
+      "overallScore": 7.7,
+      "subScores": {
+        "movil": 7.2,
+        "pc": 7.6,
+        "facil": 7.8,
+        "precio": 8.2,
+        "tiendas": 8.2
+      },
+      "mobileFeatures": 19,
+      "desktopFeatures": 23,
+      "totalFeatures": 36,
+      "pricing": {
+        "currency": "EUR",
+        "monthly1User": 69,
+        "annual1UserMonthlyEq": 59,
+        "extraUserMonthly": 19,
+        "team3Monthly": 107,
+        "team5Monthly": 145,
+        "team10Monthly": 240,
+        "tco12MonthsTeam5": 1740
+      },
+      "ratings": {
+        "appStoreIos": 5,
+        "googlePlayAndroid": 4.1
+      },
+      "onboardingTime": "2 à 3 jours"
+    },
+    {
+      "rank": 3,
+      "id": "robaws",
+      "name": "Robaws",
+      "evaluatedPlan": "Pro",
+      "overallScore": 7.3,
+      "subScores": {
+        "movil": 7.1,
+        "pc": 8.2,
+        "facil": 6.2,
+        "precio": 7.4,
+        "tiendas": 8.4
+      },
+      "mobileFeatures": 18,
+      "desktopFeatures": 28,
+      "totalFeatures": 36,
+      "pricing": {
+        "currency": "EUR",
+        "monthly1User": 139,
+        "annual1UserMonthlyEq": 119,
+        "extraUserMonthly": 107,
+        "team3Monthly": 353,
+        "team5Monthly": 567,
+        "team10Monthly": 1102,
+        "tco12MonthsTeam5": 6804
+      },
+      "ratings": {
+        "appStoreIos": 4.4,
+        "googlePlayAndroid": 5
+      },
+      "onboardingTime": "2 à 5 semaines"
+    },
+    {
+      "rank": 4,
+      "id": "outsmart",
+      "name": "OutSmart",
+      "evaluatedPlan": "Maximize + Power-Ups",
+      "overallScore": 7.2,
+      "subScores": {
+        "movil": 6.5,
+        "pc": 7.9,
+        "facil": 7.1,
+        "precio": 8,
+        "tiendas": 7.1
+      },
+      "mobileFeatures": 14,
+      "desktopFeatures": 26,
+      "totalFeatures": 36,
+      "pricing": {
+        "currency": "EUR",
+        "monthly1User": 81,
+        "annual1UserMonthlyEq": 81,
+        "extraUserMonthly": 42,
+        "team3Monthly": 165,
+        "team5Monthly": 249,
+        "team10Monthly": 459,
+        "tco12MonthsTeam5": 2988
+      },
+      "ratings": {
+        "appStoreIos": 4,
+        "googlePlayAndroid": 3.5
+      },
+      "onboardingTime": "1 semaine"
+    },
+    {
+      "rank": 5,
+      "id": "odoo",
+      "name": "Odoo",
+      "evaluatedPlan": "Custom",
+      "overallScore": 7.2,
+      "subScores": {
+        "movil": 7.5,
+        "pc": 8.4,
+        "facil": 5.7,
+        "precio": 7.9,
+        "tiendas": 6.9
+      },
+      "mobileFeatures": 21,
+      "desktopFeatures": 30,
+      "totalFeatures": 36,
+      "pricing": {
+        "currency": "EUR",
+        "monthly1User": 90,
+        "annual1UserMonthlyEq": 90,
+        "extraUserMonthly": 34,
+        "team3Monthly": 158,
+        "team5Monthly": 226,
+        "team10Monthly": 396,
+        "tco12MonthsTeam5": 2712
+      },
+      "ratings": {
+        "appStoreIos": 3.6,
+        "googlePlayAndroid": 3.6
+      },
+      "onboardingTime": "4 à 12 semaines"
+    },
+    {
+      "rank": 6,
+      "id": "bouwsoft",
+      "name": "Visma Bouwsoft",
+      "evaluatedPlan": "Licence complète",
+      "overallScore": 7,
+      "subScores": {
+        "movil": 6,
+        "pc": 8.1,
+        "facil": 6,
+        "precio": 7.9,
+        "tiendas": 8
+      },
+      "mobileFeatures": 10,
+      "desktopFeatures": 27,
+      "totalFeatures": 36,
+      "pricing": {
+        "currency": "EUR",
+        "monthly1User": 89,
+        "annual1UserMonthlyEq": 89,
+        "extraUserMonthly": 89,
+        "team3Monthly": 267,
+        "team5Monthly": 445,
+        "team10Monthly": 890,
+        "tco12MonthsTeam5": 5340
+      },
+      "ratings": {
+        "appStoreIos": 4.2,
+        "googlePlayAndroid": 4.6
+      },
+      "onboardingTime": "3 à 6 semaines"
+    },
+    {
+      "rank": 7,
+      "id": "cafca",
+      "name": "Cafca",
+      "evaluatedPlan": "Cloud Complet",
+      "overallScore": 6.7,
+      "subScores": {
+        "movil": 6.3,
+        "pc": 8.1,
+        "facil": 6,
+        "precio": 7.6,
+        "tiendas": 5.6
+      },
+      "mobileFeatures": 12,
+      "desktopFeatures": 27,
+      "totalFeatures": 36,
+      "pricing": {
+        "currency": "EUR",
+        "monthly1User": 115,
+        "annual1UserMonthlyEq": 115,
+        "extraUserMonthly": 115,
+        "team3Monthly": 345,
+        "team5Monthly": 575,
+        "team10Monthly": 1150,
+        "tco12MonthsTeam5": 6900
+      },
+      "ratings": {
+        "appStoreIos": null,
+        "googlePlayAndroid": null
+      },
+      "onboardingTime": "3 à 6 semaines"
+    }
+  ]
+}
