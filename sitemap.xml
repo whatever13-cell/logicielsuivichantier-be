@@ -1,352 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://logicielsuivichantier.be/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://logicielsuivichantier.be/tests/plombier-chauffagiste/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/plombier-chauffagiste/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/tests/electricien/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/electricien/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/tests/climatisation-pac/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/climatisation-pac/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/tests/serrurier-metallier/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/serrurier-metallier/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/tests/panneaux-solaires/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/panneaux-solaires/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/tests/menuisier/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/menuisier/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/tests/peintre-batiment/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/peintre-batiment/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/tests/macon-gros-oeuvre/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/macon-gros-oeuvre/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/tests/renovation-tce/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/renovation-tce/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/tests/paysagiste-jardinier/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/paysagiste-jardinier/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/tests/pisciniste/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/pisciniste/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/tests/entreprise-nettoyage/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/entreprise-nettoyage/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/tests/demenageur/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/demenageur/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/tests/depannage-electromenager/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/depannage-electromenager/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/tests/vitrier-miroitier/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/vitrier-miroitier/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/tests/deratisation-nuisibles/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/deratisation-nuisibles/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/tests/portails-automatismes/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/portails-automatismes/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/tests/multiservice-copropriete/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/multiservice-copropriete/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/rapport/avantium/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://logicielsuivichantier.be/rapport/robaws/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://logicielsuivichantier.be/rapport/trustup/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://logicielsuivichantier.be/rapport/bouwsoft/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://logicielsuivichantier.be/rapport/outsmart/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://logicielsuivichantier.be/rapport/odoo/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://logicielsuivichantier.be/rapport/cafca/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://logicielsuivichantier.be/comparatif/avantium-vs-robaws/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/comparatif/robaws-vs-bouwsoft/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/comparatif/avantium-vs-bouwsoft/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/comparatif/outsmart-vs-robaws/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/comparatif/avantium-vs-odoo/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/comparatif/cafca-vs-bouwsoft/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/comparatif/avantium-vs-cafca/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/comparatif/trustup-vs-outsmart/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/comparatif/odoo-vs-robaws/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/comparatif/avantium-vs-trustup/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/logiciel-devis-batiment/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/excel-ou-logiciel-batiment/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/logiciel-entretien-chaudiere/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/rentabilite-chantier/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/export-expert-comptable/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/devis-vocal-ia/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/bon-intervention-signature/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/secretaire-ia-whatsapp/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/application-chantier-hors-ligne/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/pointage-gps-chantier/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/scanner-tickets-chantier/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/situations-de-travaux/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/alternatives-robaws/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/facturation-peppol/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/protocole/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/audit-beroep/loodgieter-verwarmingsinstallateur/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/modellen/loodgieter-verwarmingsinstallateur/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/audit-beroep/elektricien/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/modellen/elektricien/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/audit-beroep/hvac-warmtepompen/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/modellen/hvac-warmtepompen/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/audit-beroep/slotenmaker-beveiliging/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/modellen/slotenmaker-beveiliging/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/audit-beroep/zonnepanelen-laadpalen/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/modellen/zonnepanelen-laadpalen/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/audit-beroep/schrijnwerker-interieurbouw/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/modellen/schrijnwerker-interieurbouw/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/audit-beroep/schilder-plafonneerder/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/modellen/schilder-plafonneerder/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/audit-beroep/metselaar-ruwbouw/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/modellen/metselaar-ruwbouw/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/audit-beroep/renovatie-totaalprojecten/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/modellen/renovatie-totaalprojecten/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/audit-beroep/tuinaanleg-groendienst/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/modellen/tuinaanleg-groendienst/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/audit-beroep/zwembadbouw-wellness/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/modellen/zwembadbouw-wellness/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/audit-beroep/schoonmaakbedrijf-glazenwasser/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/modellen/schoonmaakbedrijf-glazenwasser/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/audit-beroep/verhuisbedrijf-meubellift/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/modellen/verhuisbedrijf-meubellift/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/audit-beroep/elektroherstelling-witgoed/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/modellen/elektroherstelling-witgoed/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/audit-beroep/glazenmaker-zonwering/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/modellen/glazenmaker-zonwering/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/audit-beroep/ongediertebestrijding-hygiene/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/modellen/ongediertebestrijding-hygiene/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/audit-beroep/poorten-automatisatie/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/modellen/poorten-automatisatie/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/audit-beroep/klusbedrijf-gebouwenbeheer/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/modellen/klusbedrijf-gebouwenbeheer/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/testrapport/avantium/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/testrapport/robaws/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/testrapport/trustup/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/testrapport/bouwsoft/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/testrapport/outsmart/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/testrapport/odoo/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/testrapport/cafca/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/vergelijking/avantium-vs-robaws/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/vergelijking/robaws-vs-bouwsoft/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/vergelijking/avantium-vs-bouwsoft/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/vergelijking/outsmart-vs-robaws/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/vergelijking/avantium-vs-odoo/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/vergelijking/cafca-vs-bouwsoft/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/vergelijking/avantium-vs-cafca/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/vergelijking/trustup-vs-outsmart/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/vergelijking/odoo-vs-robaws/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/vergelijking/avantium-vs-trustup/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/offerte-software-bouw-vergelijken/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/van-excel-naar-bouwsoftware/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/onderhoudscontracten-toestellen/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/nacalculatie-vorderingsstaten-bouw/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/koppeling-boekhouding-exact-yuki-octopus/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/offerte-via-spraak-app/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/digitale-werkbon-handtekening-app/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/ai-secretaresse-whatsapp-bouw/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/werf-app-offline-modus/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/tijdsregistratie-werf-gps-app/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/aankoopbonnen-scannen-nacalculatie/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/vorderingsstaat-software-bouw/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/alternatieven-robaws/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/peppol-facturatie-2026/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://logicielsuivichantier.be/nl-be/testprotocol/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url>
-    <loc>https://logicielsuivichantier.be/etude-donnees-ouvertes-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/application-artisan-plus-simple-utiliser-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/application-chantier-plus-complete-fonctions-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/carte-chantiers-tournees-quotidiennes-btp-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/secretaire-ia-gratuite-whatsapp-artisan-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/alternatives-trustup-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/alternatives-robaws-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/alternatives-outsmart-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/alternatives-odoo-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/alternatives-bouwsoft-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/alternatives-cafca-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/meilleur-logiciel-plombier-chauffagiste-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/meilleur-logiciel-electricien-irve-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/meilleur-logiciel-climaticien-pac-cvc-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/meilleur-logiciel-auto-entrepreneur-artisan-seul-btp-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/meilleur-logiciel-renovation-menuisier-peintre-serrurier-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/devis-vocal-mobile-artisan-btp-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/bon-intervention-numerique-hors-ligne-signature-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/facturation-electronique-peppol-artisan-belgique-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/pointage-gps-chantier-situations-travaux-rentabilite-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/devis-depenses-rendez-vous-whatsapp-ia-btp-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/calculateur-tarif-reel-1-personne-artisan-btp-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/verificateur-peppol-2026-artisan-belgique/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/avantium-vs-trustup-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/avantium-vs-robaws-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/avantium-vs-outsmart-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/avantium-vs-odoo-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/avantium-vs-bouwsoft-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/avantium-vs-cafca-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/meilleur-logiciel-menuisiers-agenceurs-fenetres-belgique-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/meilleur-logiciel-peintres-batiment-ravalement-belgique-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/meilleur-logiciel-paysagistes-jardiniers-piscinistes-belgique-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/meilleur-logiciel-maintenance-depannage-syndics-belgique-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/meilleur-logiciel-serruriers-metalliers-automatismes-belgique-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://logicielsuivichantier.be/passer-excel-papier-application-artisan-btp-belgique-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url><loc>https://logicielsuivichantier.be/avantium/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/entreprise/kmo-portefeuille/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/entreprise/checkinatwork/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/obligations/constructiv-formation/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/obligations/attestation-amiante/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/tva/facturation-electronique-peppol/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/entreprise/limosa/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/obligations/vca-belgique/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/entreprise/declaration-de-chantier/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/salaires/commission-paritaire-124/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/entreprise/responsabilite-decennale/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/calculateurs/cotisations-sociales-independant/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/salaires/timbres-fidelite-intemperies/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/entreprise/rappel-et-mise-en-demeure/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/mise-en-demeure/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/tva/mentions-facture/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/facture/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/tva/franchise-petites-entreprises/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/entreprise/creer-une-srl/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/devis/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/tva/autoliquidation-cocontractant/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/salaires/jours-de-repos-construction/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/calculateurs/interets-de-retard/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/climatisation/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/entreprise/reception-provisoire-definitive/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/proces-verbal-reception/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/entreprise/assurances-obligatoires/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/bon-de-travail/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/calculateurs/taux-horaire/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/taux-horaire/electricien/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/taux-horaire/plombier/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/taux-horaire/peintre/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/plombier/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/chauffagiste/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/tva/retenue-35-pourcent/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/pompe-a-chaleur/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/taux-horaire/menuisier/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/taux-horaire/couvreur/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/taux-horaire/jardinier/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/couvreur/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/nettoyage/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/vitrier/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/taux-horaire/carreleur/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/salaires/commission-paritaire-149-01/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/peintre/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/plafonneur/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/carreleur/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/macon/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/homme-a-tout-faire/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/taux-horaire/chauffagiste/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/formation/certification-pompe-a-chaleur/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/calculateurs/tva-calculateur/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/primes/mijn-verbouwpremie/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/primes/prime-pompe-a-chaleur/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/obligations/obligation-renovation/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/primes/prime-boiler-thermodynamique/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/primes/prime-electricite-sanitaire/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/primes/prime-fenetres-portes/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/primes/prime-humidite/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/primes/prime-murs-exterieurs/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/primes/prime-sol/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/primes/prime-toiture/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/logiciels/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/calculateurs/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/tva/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/salaires/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/entreprise/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/primes/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/obligations/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/modeles/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://logicielsuivichantier.be/guides/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://logicielsuivichantier.be/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/avantium/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/calculateurs/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/calculateurs/taux-horaire/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/entreprise/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/entreprise/assurances-obligatoires/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/entreprise/checkinatwork/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/entreprise/declaration-de-chantier/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/entreprise/limosa/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/entreprise/reception-provisoire-definitive/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/entreprise/responsabilite-decennale/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/formation/certification-pompe-a-chaleur/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/modeles/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/modeles/bon-de-travail/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/modeles/carreleur/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/modeles/chauffagiste/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/modeles/climatisation/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/modeles/couvreur/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/modeles/devis/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/modeles/electricien/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/modeles/homme-a-tout-faire/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/modeles/macon/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/modeles/menuisier/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/modeles/nettoyage/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/modeles/panneaux-solaires/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/modeles/peintre/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/modeles/plafonneur/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/modeles/plombier/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/modeles/pompe-a-chaleur/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/modeles/proces-verbal-reception/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/modeles/vitrier/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/obligations/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/obligations/attestation-amiante/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/obligations/constructiv-formation/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/obligations/vca-belgique/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/salaires/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/salaires/commission-paritaire-124/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/salaires/commission-paritaire-149-01/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/salaires/jours-de-repos-construction/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/salaires/timbres-fidelite-intemperies/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/taux-horaire/carreleur/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/taux-horaire/chauffagiste/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/taux-horaire/couvreur/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/taux-horaire/electricien/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/taux-horaire/jardinier/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/taux-horaire/menuisier/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/taux-horaire/peintre/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/taux-horaire/plombier/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/tva/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/tva/autoliquidation-cocontractant/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://logicielsuivichantier.be/tva/retenue-35-pourcent/</loc><lastmod>2026-11-16</lastmod></url>
 </urlset>
