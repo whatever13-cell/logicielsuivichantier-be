@@ -121,6 +121,7 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [Taux horaire jardinier](https://logicielsuivichantier.be/taux-horaire/jardinier/): Barème CP 145 et prix indépendant
 - [Taux horaire carreleur](https://logicielsuivichantier.be/taux-horaire/carreleur/): Catégorie IV et prix au m²
 - [Taux horaire chauffagiste](https://logicielsuivichantier.be/taux-horaire/chauffagiste/): Monteur-soudeur, PAC et prix
+- [Calcul de la TVA](https://logicielsuivichantier.be/calculateurs/tva-calculateur/): HTVA, TVAC et le bon taux pour un chantier
 - [Prix réel des logiciels](https://logicielsuivichantier.be/calculateur-tarif-reel-1-personne-artisan-btp-2026/): Ce que tu paies tout compris
 
 ### TVA et facturation
@@ -147,12 +148,25 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [Déclaration de chantier (30bis)](https://logicielsuivichantier.be/entreprise/declaration-de-chantier/): Quand déclarer les travaux à l'ONSS
 - [Responsabilité décennale](https://logicielsuivichantier.be/entreprise/responsabilite-decennale/): L'assurance obligatoire depuis 2018
 - [Rappel et mise en demeure](https://logicielsuivichantier.be/entreprise/rappel-et-mise-en-demeure/): Particulier ou entreprise : ce que tu peux réclamer
+- [Créer une SRL](https://logicielsuivichantier.be/entreprise/creer-une-srl/): Plan financier, notaire et responsabilité
+- [Réception provisoire et définitive](https://logicielsuivichantier.be/entreprise/reception-provisoire-definitive/): Délais, garantie et preuve
+- [Assurances obligatoires](https://logicielsuivichantier.be/entreprise/assurances-obligatoires/): Décennale et accidents du travail
+
+### Primes
+
+- [Mijn VerbouwPremie](https://logicielsuivichantier.be/primes/mijn-verbouwpremie/): Ce que l'entrepreneur doit fournir
+- [Prime pompe à chaleur](https://logicielsuivichantier.be/primes/prime-pompe-a-chaleur/): Les montants flamands 2026
+- [Prime électricité et sanitaire](https://logicielsuivichantier.be/primes/prime-electricite-sanitaire/): Flandre : ce qui compte, ce qui ne compte pas
+- [Prime fenêtres et portes](https://logicielsuivichantier.be/primes/prime-fenetres-portes/): Flandre : qui y a encore droit
+- [Prime toiture](https://logicielsuivichantier.be/primes/prime-toiture/): Flandre : isolation, rénovation, amiante
 
 ### Obligations
 
 - [Constructiv : formations](https://logicielsuivichantier.be/obligations/constructiv-formation/): Ce que le secteur rembourse, et la formation obligatoire
 - [Attestation amiante](https://logicielsuivichantier.be/obligations/attestation-amiante/): Vente en Flandre, et ce que l'entrepreneur doit faire
 - [VCA en Belgique](https://logicielsuivichantier.be/obligations/vca-belgique/): Diplôme de 10 ans et certificat d'entreprise
+- [Installateur de pompe à chaleur certifié](https://logicielsuivichantier.be/formation/certification-pompe-a-chaleur/): Frigoriste et RESCert
+- [Obligation de rénovation](https://logicielsuivichantier.be/obligations/obligation-renovation/): Flandre : label D en six ans
 
 ### Modèles
 
