@@ -112,6 +112,15 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 
 - [Cotisations sociales d'indépendant](https://logicielsuivichantier.be/calculateurs/cotisations-sociales-independant/): Calcul trimestriel 2026, principal ou complémentaire
 - [Intérêts de retard](https://logicielsuivichantier.be/calculateurs/interets-de-retard/): Le taux légal 2026 et le calcul par jour
+- [Taux horaire de l'entrepreneur](https://logicielsuivichantier.be/calculateurs/taux-horaire/): Combien facturer de l'heure, selon tes chiffres
+- [Taux horaire électricien](https://logicielsuivichantier.be/taux-horaire/electricien/): Catégories A à F et prix indépendant
+- [Taux horaire plombier](https://logicielsuivichantier.be/taux-horaire/plombier/): Plombier-zingueur, apprenti et prix
+- [Taux horaire peintre](https://logicielsuivichantier.be/taux-horaire/peintre/): Du diplôme au peintre qualifié
+- [Taux horaire menuisier](https://logicielsuivichantier.be/taux-horaire/menuisier/): Toupilleur, charpentier et prix
+- [Taux horaire couvreur](https://logicielsuivichantier.be/taux-horaire/couvreur/): Couvreur, amiante et prix
+- [Taux horaire jardinier](https://logicielsuivichantier.be/taux-horaire/jardinier/): Barème CP 145 et prix indépendant
+- [Taux horaire carreleur](https://logicielsuivichantier.be/taux-horaire/carreleur/): Catégorie IV et prix au m²
+- [Taux horaire chauffagiste](https://logicielsuivichantier.be/taux-horaire/chauffagiste/): Monteur-soudeur, PAC et prix
 - [Prix réel des logiciels](https://logicielsuivichantier.be/calculateur-tarif-reel-1-personne-artisan-btp-2026/): Ce que tu paies tout compris
 
 ### TVA et facturation
