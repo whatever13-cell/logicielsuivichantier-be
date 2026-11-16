@@ -143,6 +143,7 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 
 ### Entreprise
 
+- [KMO-portefeuille](https://logicielsuivichantier.be/entreprise/kmo-portefeuille/): Formations et conseils subsidiés en Flandre
 - [Checkinatwork](https://logicielsuivichantier.be/entreprise/checkinatwork/): Enregistrer les présences sur chantier
 - [Limosa](https://logicielsuivichantier.be/entreprise/limosa/): Sous-traitants et ouvriers étrangers sur chantier
 - [Déclaration de chantier (30bis)](https://logicielsuivichantier.be/entreprise/declaration-de-chantier/): Quand déclarer les travaux à l'ONSS
@@ -156,8 +157,12 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 
 - [Mijn VerbouwPremie](https://logicielsuivichantier.be/primes/mijn-verbouwpremie/): Ce que l'entrepreneur doit fournir
 - [Prime pompe à chaleur](https://logicielsuivichantier.be/primes/prime-pompe-a-chaleur/): Les montants flamands 2026
+- [Prime boiler thermodynamique](https://logicielsuivichantier.be/primes/prime-boiler-thermodynamique/): Flandre : label, régulation, cumul
 - [Prime électricité et sanitaire](https://logicielsuivichantier.be/primes/prime-electricite-sanitaire/): Flandre : ce qui compte, ce qui ne compte pas
 - [Prime fenêtres et portes](https://logicielsuivichantier.be/primes/prime-fenetres-portes/): Flandre : qui y a encore droit
+- [Prime humidité et mérule](https://logicielsuivichantier.be/primes/prime-humidite/): Flandre : travaux préparatoires à l'isolation
+- [Prime murs extérieurs](https://logicielsuivichantier.be/primes/prime-murs-exterieurs/): Flandre : coulisse, intérieur, extérieur
+- [Prime isolation du sol](https://logicielsuivichantier.be/primes/prime-sol/): Flandre : sol et plafond de cave
 - [Prime toiture](https://logicielsuivichantier.be/primes/prime-toiture/): Flandre : isolation, rénovation, amiante
 
 ### Obligations
