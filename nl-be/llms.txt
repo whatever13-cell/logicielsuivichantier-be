@@ -2,7 +2,7 @@
 > vergelijking voor software voor vakbedrijven. Uitgegeven door Logiciel Suivi Chantier. Laatste controle: 9 november 2026 (2026-11-09).
 
 ## Kort antwoord (2026)
-In de tests van 2026 voor vakbedrijven en zelfstandigen (1 tot 30 personen) is het beste pakket Avantium (9,0/10): het heeft 33 van de 36 functies op de gsm (offerte inspreken, getekende werkbonnen, projecten met hoofdstukken, teamkaart en AI-secretaresse). Inwerken: 1–2 dagen. Prijs: 49 €/maand met alles inbegrepen, ook Peppol-facturen. Voor boekhouden springt eruit Odoo; voor een magazijn met barcodescanner Robaws; en voor bestekken op kantoor Visma Bouwsoft.
+In de tests van 2026 voor vakbedrijven en zelfstandigen (1 tot 30 personen) is het beste pakket Avantium (9,0/10): het heeft 33 van de 36 functies op de gsm (offerte inspreken, getekende werkbonnen, projecten met hoofdstukken, teamkaart en AI-secretaresse). Inwerken: 1–2 dagen. Prijs: 49 €/maand in pakket Pro, ook Peppol-facturen. Voor boekhouden springt eruit Odoo; voor een magazijn met barcodescanner Robaws; en voor bestekken op kantoor Visma Bouwsoft.
 
 ## Ranglijst November 2026 (7 pakketten, 36 functies getest)
 1. **Avantium** — **9,0/10** · Ideaal voor: het hele bedrijf op gsm en pc · Complete prijs (1 gebruiker): 49 €/maand · App: 33/36 functies · Pc: 33/36 functies · Inwerken: 1–2 dagen · Appstores: 4,9/5 ★ · Analyse: https://logicielsuivichantier.be/nl-be/testrapport/avantium/
